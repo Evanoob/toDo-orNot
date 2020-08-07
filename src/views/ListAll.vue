@@ -11,7 +11,7 @@
 import ListList from "@/components/ListList";
 
 export default {
-  name: "ListAll",
+  name: "Listall",
   components: {
     ListList
   }
